@@ -1,4 +1,3 @@
-# sonurimu
-taking this for fun
-this is useful for practics projects
+this is is useful for practics projects
+And also we can save various projects here.!..
 
